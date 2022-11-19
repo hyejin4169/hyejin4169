@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hyejin%20Yun&fontAlign=50&fontAlignY=40&color=gradient)
+
 <h3>
-   🧚‍♀️ Hi there! I'm <b>Hyejin, who is a goal-oriented individual striving for perfection in every aspect. :)</b><br/>
+   🧚‍♀️ Hi there! I'm <b>HJ, who is a goal-oriented individual striving for perfection in every aspect. :)</b><br/>
 </h3>
 <br/>
 
