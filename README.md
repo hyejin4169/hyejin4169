@@ -23,10 +23,6 @@
   <img src="https://img.shields.io/badge/AWS S3-232F3E?style=flat&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/AWS cloudfront-232F3E?style=flat&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/AWS route53-232F3E?style=flat&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=black">
-   <p>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white">
